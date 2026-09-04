@@ -10,6 +10,7 @@ description: "Seminars, lunches, workshops, and center events."
 
 ## Past Workshops
 
+- [New Frontiers in Cosmology](https://www.fundacion.udc.es/cosmology-conference-coruna-2026/), 2026 August 10-14, A Coruña, Spain
 - [Cosmology in the Adriatic -- From PT to AI](https://bccp-berkeley-2024-split.netlify.app/), 2024 July 14-20, Split, Croatia
 - [Vipolze](https://bccp.lbl.gov/2022-Smartno/index.html), 2022 July 17-23, Vipolze, Slovenia
 - [Reionization and Cosmic Dawn: Looking Forward To the Past](https://bccp.lbl.gov/2022-reionization/index.html), 2022 Mar 21-23, Berkeley, CA
