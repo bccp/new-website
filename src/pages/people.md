@@ -9,7 +9,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [Saul Perlmutter](http://physics.berkeley.edu/people/faculty/saul-perlmutter), Nobel Laureate
 - [Uros Seljak](http://physics.berkeley.edu/people/faculty/uros-seljak)
 
-## BCCP-affiliated faculty and scientists
+## BCCP-affiliated Faculty and Scientists
 
 - [Greg Aldering](https://commons.lbl.gov/display/physics/Greg+Aldering)
 - [Joanne Cohn](http://astro.berkeley.edu/~jcohn/)
@@ -27,7 +27,15 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [Clara Vergès](https://claraverges.github.io/)
 - [Martin White](http://w.astro.berkeley.edu/~mwhite/)
 
-## Current BCCP-affiliated Postdocs
+## Current BCCP Postdoctoral Fellows
+
+- [Anshuman Acharya](https://www.anshumanastro.com/)
+- [Alina Sabyr](https://asabyr.github.io/)
+- Hugo Simon
+- [Natalí de Santi](https://natalidesanti.github.io/)
+- [Erik Zaborowski](https://www.linkedin.com/in/erik-zaborowski/)
+
+## Current BCCP-affiliated Postdocs and Project Scientists
 
 - [Gerrit Farren](https://gerrfarr.github.io/)
 - Shamik Ghosh
@@ -105,7 +113,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [Miguel Zumalacarregui](http://miguelzumalacarregui.es/)
 
 
-## Former BCCP Graduate and Undergraduate students
+## Former BCCP Graduate and Undergraduate Students
 
 - Adrian Bayer
 - Jonathan Blazek
