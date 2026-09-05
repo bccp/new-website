@@ -16,7 +16,7 @@ These are some of the projects that are either led by BCCP scientists, or that h
 
 ## Theoretical and Computational Cosmology
 
-BCCP researchers develop theoretical models and computational methods to study the cosmic microwave background (CMB), large-scale structure (LSS), and line-intensity mapping (LIM). This work combines analytic theory, numerical simulations, machine learning, and statistical inference to extract fundamental physics from cosmological observations.
+BCCP researchers develop theoretical models and computational methods to study the cosmic microwave background (CMB), large-scale structure (LSS), and line-intensity mapping (LIM). This work combines analytic theory, numerical simulations, machine learning, and statistical inference to extract fundamental physics from cosmological observations. We also maintain useful software through the [BCCP GitHub organization](https://github.com/bccp).
 
 * * *
 
