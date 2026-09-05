@@ -8,62 +8,70 @@ These are some of the projects that are either led by BCCP scientists, or that h
 
 * * *
 
-![](/images/research/sdss3_logo.png)
+![Dark Energy Spectroscopic Instrument logo](/images/research/desi_logo.jpg)
 
-## [BOSS](http://sdss3.org/surveys/boss.php)
+## [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov/)
 
-The Baryon Oscillation Spectroscopic Survey (BOSS) is a recently completed 5-year survey designed to make the best-ever measurement of the Baryon Acoustic Oscillations (BAO) signal. The survey has obtained spectra of approximately 1.5 million galaxies at z < 0.7 and 160,000 quasars at much higher redshifts.
-
-* * *
-
-![](/images/research/polarbear_logo.png)
-
-## [POLARBEAR](http://bolo.berkeley.edu/polarbear/)
-
-The Polarization of Background Radiation (POLARBEAR) experiment is designed to detect B-modes in the Cosmic microwave background (CMB) and use them to investigate the origin and evolution of the Universe and to understand physics and cosmology beyond our Standard Model.
+DESI measures how dark energy affects the expansion of the Universe by collecting spectra of tens of millions of galaxies and quasars. Its observations create a three-dimensional map of the cosmos spanning billions of light-years.
 
 * * *
 
-![](/images/research/des_logo.jpg)
+![Simons Observatory logo](/images/research/simons_observatory_logo.svg)
 
-## [Dark Energy Survey](#dark-energy-survey)
+## [Simons Observatory](https://simonsobservatory.org/)
 
-The Dark Energy Survey (DES) is a 5-year imaging survey currently underway. It is designed to make seasurements of supernovae, baryon acoustic oscillations, galaxy clusters and weak gravitational lensing by imaging 5000 square degrees with a new specially designed 560 megapixel camera, DECam.
-
-* * *
-
-![](/images/research/c3_logo.jpg)
-
-## [Computional Cosmology Center](https://c3.lbl.gov/)
-
-The Computational Cosmology Center (C3) is a focused collaboration of astrophysicists and computational scientists whose goals are to develop the tools, techniques and technologies to meet the analysis challenges posed by present and future cosmological data sets.
+The Simons Observatory is a set of millimeter-wave telescopes in Chile's Atacama Desert that maps the cosmic microwave background and other signals across the sky. These observations probe the origin, evolution, and composition of the Universe, including dark matter, neutrinos, and cosmic acceleration.
 
 * * *
 
-![](/images/research/scp_logo.jpg)
+![Sloan Digital Sky Survey III logo](/images/research/sdss3_logo.png)
 
-## [Supernova Cosmology Project](http://supernova.lbl.gov/)
+## [BOSS](https://www.sdss4.org/surveys/boss/)
 
-The Supernova Cosmology Project (SCP) probes the properties of dark energy in the first half of the universe, using supernovae at the highest redshifts available. The collaboration is currently carrying out a 2-year survey using the Hubble Space Telescope.
-
-* * *
-
-![](/images/research/snfactory_logo.jpg)
-
-## [Nearby Supernova Factory](http://snfactory.lbl.gov/)
-
-The Nearby Supernova Factory (SNfactory) is an experiment to develop Type Ia supernovae as tools to measure the expansion history of the Universe and explore the nature of Dark Energy.
+The Baryon Oscillation Spectroscopic Survey (BOSS) was a five-year survey designed to make precise measurements of the Baryon Acoustic Oscillation signal. It obtained spectra of approximately 1.5 million galaxies and more than 160,000 quasars.
 
 * * *
 
-![](/images/research/desi_logo.jpg)
+![POLARBEAR logo](/images/research/polarbear_logo.png)
 
-## [Dark Energy Spectroscopic Instrument](http://desi.lbl.gov/)
+## [POLARBEAR](https://lambda.gsfc.nasa.gov/product/polarbear/)
 
-The Dark Energy Spectroscopic Instrument (DESI) will measure the effect of dark energy on the expansion of the universe. It will obtain optical spectra for tens of millions of galaxies and quasars, constructing a 3-dimensional map spanning the nearby universe to 10 billion light years.
+The Polarization of Background Radiation (POLARBEAR) experiment measures polarization in the cosmic microwave background (CMB). Its observations investigate the origin and evolution of the Universe and test physics beyond the Standard Model.
 
 * * *
 
-## [WFIRST](http://wfirst.gsfc.nasa.gov/)
+![Dark Energy Survey logo](/images/research/des_logo.jpg)
 
-The Wide-Field Infrared Survey Telescope (WFIRST) is a NASA observatory designed to perform wide-field imaging and slitless spectroscopic surveys of the near infrared (NIR) sky for the community.
+## [Dark Energy Survey](https://www.darkenergysurvey.org/)
+
+The Dark Energy Survey (DES) mapped hundreds of millions of galaxies and detected thousands of supernovae. It uses supernovae, baryon acoustic oscillations, galaxy clusters, and weak gravitational lensing to study the accelerating expansion of the Universe.
+
+* * *
+
+![Computational Cosmology Center logo](/images/research/c3_logo.jpg)
+
+## [Computational Cosmology Center](https://scidata.lbl.gov/research-areas/groups/computational-cosmology-center/)
+
+The Computational Cosmology Center (C3) brings together astrophysicists and computational scientists to develop the methods, tools, and technologies needed for modern cosmology. Its work includes large-scale simulations and the analysis of data from supernova and cosmic microwave background experiments.
+
+* * *
+
+![Supernova Cosmology Project logo](/images/research/scp_logo.jpg)
+
+## [Supernova Cosmology Project](https://www.physics.lbl.gov/cosmo/type-ia/)
+
+The Supernova Cosmology Project (SCP) discovered the accelerating expansion of the Universe using Type Ia supernovae. Its researchers continue to use observations from ground- and space-based telescopes to improve measurements of dark energy.
+
+* * *
+
+![Nearby Supernova Factory logo](/images/research/snfactory_logo.jpg)
+
+## [Nearby Supernova Factory](https://snfactory.lbl.gov/)
+
+The Nearby Supernova Factory (SNfactory) develops Type Ia supernovae as tools for measuring the expansion history of the Universe and exploring the nature of dark energy.
+
+* * *
+
+## [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
+
+The Nancy Grace Roman Space Telescope, formerly known as WFIRST, is a NASA infrared observatory designed to investigate dark energy, exoplanets, and a broad range of astrophysics. Its wide-field instrument can survey large areas of the sky with Hubble-like resolution.
