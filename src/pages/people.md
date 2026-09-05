@@ -29,6 +29,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [Peter Nugent](https://scidata.lbl.gov/profile/penugent/)
 - [Nathalie Palanque-Delabrouille](https://newscenter.lbl.gov/2021/05/24/nathalie-palanque-delabrouille-physics-division/)
 - [David Schlegel](https://djschlegel.wordpress.com/)
+- [Toki Suzuki](https://profiles.lbl.gov/24274-aritoki-suzuki)
 - [Clara Vergès](https://claraverges.github.io/)
 - [Martin White](https://w.astro.berkeley.edu/~mwhite/)
 
@@ -107,6 +108,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Paul La Plante
 - Francois Lanusse
 - Alexie Leauthaud
+- Khee-Gan Lee
 - Yin Li
 - Adrian Liu
 - Jia Liu
@@ -115,6 +117,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Michael Mortonson
 - Justin Myles
 - Reiko Nakajima
+- Nikhil Padmanabhan
 - Antonella Palmese
 - Kara Ponder
 - Claire Poppett
@@ -122,6 +125,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Anand Raichoor
 - Beth Reid
 - Emmanuel Schaan
+- Edward Schlafly
 - Marcel Schmittfull
 - Hee-Jong Seo
 - Blake Sherwin
@@ -135,6 +139,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Marcel van Daalen
 - Noah Weaverdyck
 - Michael Wilson
+- Kimmy Wu
 - Oliver Zahn
 - HongMing Zhu
 - Miguel Zumalacarregui
