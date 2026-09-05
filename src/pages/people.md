@@ -11,7 +11,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 
 ## BCCP-affiliated Faculty and Scientists
 
-- Greg Aldering
+- [Greg Aldering](https://supernova.lbl.gov/~aldering/)
 - [Joanne Cohn](https://w.astro.berkeley.edu/~jcohn/)
 - [Simone Ferraro](https://sferraro.lbl.gov/)
 - [John Groh](https://lowtemperaturecosmicmeasurement.lbl.gov/)
@@ -73,58 +73,58 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 ## Former BCCP Postdocs
 
 - Grigor Aslanyan
-- [Anton Baleato Lizancos](https://abaleato.github.io/)
-- [Kyle Barbary](http://kbarbary.github.io)
-- [Florian Beutler](https://commons.lbl.gov/display/physics/Florian+Beutler)
-- [Vanessa Boehm](https://vmboehm.github.io/)
-- [Phil Bull](http://www.philbull.com/)
+- Anton Baleato Lizancos
+- Kyle Barbary
+- Florian Beutler
+- Vanessa Boehm
+- Phil Bull
 - Emanuele Castorina
 - Solene Chabanier
-- [Sudeep Das](http://bccp.lbl.gov/~sudeep/home.html)
+- Sudeep Das
 - Roger de Belsunce
 - Joseph DeRose
-- [Josh Dillon](http://joshdillon.net/)
-- [Aaron Ewall-Wice](https://sites.google.com/view/aaron-ewall-wice/home)
+- Josh Dillon
+- Aaron Ewall-Wice
 - Xiao Fang
-- [Yu Feng](http://rainwoodman.github.io/website)
-- [Andreu Font](https://commons.lbl.gov/display/physics/Andreu+Font-Ribera)
+- Yu Feng
+- Andreu Font
 - Satya Gontcho A Gontcho
 - Boryana Hadzhiyska
-- [ChangHoon Hahn](http://changhoonhahn.github.io)
+- ChangHoon Hahn
 - Brian Hayden
 - Lingyuan Ji
-- [Minas Karamanis](https://www.minaskaramanis.com)
+- Minas Karamanis
 - Daniel Kuesters
-- [Francois Lanusse](https://flanusse.net/)
-- [Paul La Plante](https://plaplant.github.io/)
-- [Yin Li](https://www.simonsfoundation.org/people/yin-li/)
-- [Jia Liu](https://liuxx479.github.io/)
-- [Aaron Meisner](http://aaronmeisner.com)
-- [Marius Millea](https://cosmicmar.com/)
+- Francois Lanusse
+- Paul La Plante
+- Yin Li
+- Jia Liu
+- Aaron Meisner
+- Marius Millea
 - Michael Mortonson
 - Justin Myles
 - Antonella Palmese
-- [Kara Ponder](https://kponder.github.io/)
+- Kara Ponder
 - Claire Poppett
-- [Giuseppe Puglisi](http://giuspugl.github.io/)
+- Giuseppe Puglisi
 - Anand Raichoor
-- [Beth Reid](http://bethreid.com/BR/Home.html)
-- [Emmanuel Schaan](https://eschaan.lbl.gov/)
-- [Marcel Schmittfull](https://bccp.berkeley.edu/msl/)
+- Beth Reid
+- Emmanuel Schaan
+- Marcel Schmittfull
 - Hee-Jong Seo
-- [Blake Sherwin](https://bccp.berkeley.edu/sherwin/Welcome.html)
+- Blake Sherwin
 - Sukhdeep Singh
-- [Zachary Slepian](http://w.astro.berkeley.edu/~zslepian/)
-- [Anze Slosar](https://bccp.berkeley.edu/people/anze-slosar/)
+- Zachary Slepian
+- Anze Slosar
 - Tristan Smith
 - George Stein
 - Amelie Tamone
 - Jeremy Tinker
-- [Marcel van Daalen](http://astro.berkeley.edu/~marcel/)
+- Marcel van Daalen
 - Noah Weaverdyck
 - Michael Wilson
 - HongMing Zhu
-- [Miguel Zumalacarregui](http://miguelzumalacarregui.es/)
+- Miguel Zumalacarregui
 
 
 ## Former BCCP Graduate and Undergraduate Students
@@ -132,21 +132,21 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Adrian Bayer
 - Jonathan Blazek
 - Kyle Boone
-- [Stephen Chen](https://sfschen.github.io/)
+- Stephen Chen
 - Biwei Dai
-- [Shashank Dholakia](https://shashankdholakia.github.io/)
+- Shashank Dholakia
 - Parker Fagrelius
 - Hannah Fakhouri
 - Matt George
 - Nick Hand
-- [Benjamin Horowitz](http://bhorowitz.github.io)
+- Benjamin Horowitz
 - Eric Huff
 - Ellie Kitanidis
 - Max Lee
 - Nathaniel Leslie
 - Mark Maus
 - Nishant Mishra
-- [Chirag Modi](https://bids.berkeley.edu/people/chirag-modi/)
+- Chirag Modi
 - Yookyung Noh
 - Jakob Robnik
 - Elisa Russier
