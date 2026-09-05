@@ -4,6 +4,10 @@ title: "Research"
 description: "Projects led by BCCP scientists or with heavy BCCP involvement."
 ---
 
+BCCP is a joint research center of the UC Berkeley Departments of [Physics](https://physics.berkeley.edu/) and [Astronomy](https://astro.berkeley.edu/) and the [Cosmology Group at Lawrence Berkeley National Laboratory](https://www.physics.lbl.gov/cosmo/).
+
+We also maintain close ties to the [Leinweber Institute for Theoretical Physics](https://physics.berkeley.edu/research-faculty/leinweber-institute-theoretical-physics), the [Centre Pierre Binétruy](https://www.cpb.in2p3.fr/), and the [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/).
+
 These are some of the projects that are either led by BCCP scientists, or that have heavy involvement from BCCP:
 
 * * *
