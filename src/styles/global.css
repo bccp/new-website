@@ -313,8 +313,8 @@ h3 {
   height: 130px;
 }
 
-.content img[src*="/images/research/"] + h2,
-.content img[src*="/images/research/"] + h2 + p {
+.content p:has(> img[src*="/images/research/"]) + h2,
+.content p:has(> img[src*="/images/research/"]) + h2 + p {
   margin-left: 194px;
 }
 
@@ -436,8 +436,8 @@ h3 {
     margin: 8px 0 16px;
   }
 
-  .content img[src*="/images/research/"] + h2,
-  .content img[src*="/images/research/"] + h2 + p {
+  .content p:has(> img[src*="/images/research/"]) + h2,
+  .content p:has(> img[src*="/images/research/"]) + h2 + p {
     margin-left: 0;
   }
 }
