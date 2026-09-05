@@ -6,7 +6,7 @@ description: "Projects led by BCCP scientists or with heavy BCCP involvement."
 
 BCCP is a joint research center of the UC Berkeley Departments of [Physics](https://physics.berkeley.edu/) and [Astronomy](https://astro.berkeley.edu/) and the [Cosmology Group at Lawrence Berkeley National Laboratory](https://www.physics.lbl.gov/cosmo/).
 
-We also maintain close ties to the [Leinweber Institute for Theoretical Physics](https://physics.berkeley.edu/research-faculty/leinweber-institute-theoretical-physics), the [Centre Pierre Binétruy](https://www.cpb.in2p3.fr/), and the [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/).
+We also maintain close ties to the [Leinweber Institute for Theoretical Physics](https://physics.berkeley.edu/research-faculty/leinweber-institute-theoretical-physics), the [Centre Pierre Binétruy](https://www.cpb.in2p3.fr/), the [Computational Cosmology Center](https://scidata.lbl.gov/research-areas/groups/computational-cosmology-center/), and the [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/).
 
 These are some of the projects that are either led by BCCP scientists, or that have heavy involvement from BCCP:
 
@@ -81,14 +81,6 @@ The Polarization of Background Radiation (POLARBEAR) experiment measures polariz
 ## [Dark Energy Survey](https://www.darkenergysurvey.org/)
 
 The Dark Energy Survey (DES) mapped hundreds of millions of galaxies and detected thousands of supernovae. It uses supernovae, baryon acoustic oscillations, galaxy clusters, and weak gravitational lensing to study the accelerating expansion of the Universe.
-
-* * *
-
-![Computational Cosmology Center logo](/images/research/c3_logo.jpg)
-
-## [Computational Cosmology Center](https://scidata.lbl.gov/research-areas/groups/computational-cosmology-center/)
-
-The Computational Cosmology Center (C3) brings together astrophysicists and computational scientists to develop the methods, tools, and technologies needed for modern cosmology. Its work includes large-scale simulations and the analysis of data from supernova and cosmic microwave background experiments.
 
 * * *
 
