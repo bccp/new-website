@@ -46,11 +46,10 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [Allyson Brodzeller](https://www.desi.lbl.gov/2023/06/30/allyson-brodzeller/)
 - [Edmond Chaussidon](https://echaussidon.github.io/portfolio/)
 - [Andrei Cuceu](https://andreicuceu.github.io/)
-- [Shashank Dholakia](https://shashankdholakia.github.io/)
 - [Gerrit Farren](https://gerrfarr.github.io/)
 - [Shamik Ghosh](https://1cosmologist.github.io/)
 - [Dylan Green](https://dylanagreen.github.io/)
-- [Oliver Jeong](https://physics.berkeley.edu/people/graduate-student/oliver-jeong)
+- Oliver Jeong
 - [Anthony Kremin](https://www.darkenergysurvey.org/scientistoftheweek/anthony-kremin/)
 - [Calvin Leung](https://leungcalvin.github.io/)
 - [Zack Li](https://zack.li/)
@@ -135,6 +134,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Kyle Boone
 - [Stephen Chen](https://sfschen.github.io/)
 - Biwei Dai
+- [Shashank Dholakia](https://shashankdholakia.github.io/)
 - Parker Fagrelius
 - Hannah Fakhouri
 - Matt George
