@@ -11,22 +11,22 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 
 ## BCCP-affiliated Faculty and Scientists
 
-- [Greg Aldering](https://commons.lbl.gov/display/physics/Greg+Aldering)
-- [Joanne Cohn](http://astro.berkeley.edu/~jcohn/)
+- Greg Aldering
+- [Joanne Cohn](https://w.astro.berkeley.edu/~jcohn/)
 - [Simone Ferraro](https://sferraro.lbl.gov/)
 - [John Groh](https://lowtemperaturecosmicmeasurement.lbl.gov/)
 - [Julien Guy](https://profiles.lbl.gov/julien-guy)
 - [William Holzapfel](https://physics.berkeley.edu/people/faculty/william-holzapfel)
 - [Taylor Hoyt](https://thoyt.lbl.gov/)
-- [Alex Kim](http://panisse.lbl.gov/~akim/)
-- [Adrian Lee](http://physics.berkeley.edu/people/faculty/adrian-lee)
+- [Alex Kim](https://alexgkim.github.io/about/)
+- [Adrian Lee](https://physics.berkeley.edu/people/faculty/adrian-lee)
 - Michael Levi
-- [Eric Linder](http://supernova.lbl.gov/~evlinder/)
-- [Pat McDonald](http://cosmology.berkeley.edu/directory.html)
-- [Peter Nugent](http://astro.berkeley.edu/people/faculty/nugent.htm)
+- [Eric Linder](https://supernova.lbl.gov/~evlinder/)
+- Pat McDonald
+- [Peter Nugent](https://scidata.lbl.gov/profile/penugent/)
 - [David Schlegel](https://djschlegel.wordpress.com/)
 - [Clara Vergès](https://claraverges.github.io/)
-- [Martin White](http://w.astro.berkeley.edu/~mwhite/)
+- [Martin White](https://w.astro.berkeley.edu/~mwhite/)
 
 ## Current BCCP Postdoctoral Fellows
 
