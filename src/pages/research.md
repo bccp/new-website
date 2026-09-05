@@ -24,11 +24,19 @@ The Simons Observatory is a set of millimeter-wave telescopes in Chile's Atacama
 
 * * *
 
-![Rubin Observatory beneath the night sky](/images/research/rubin_observatory.jpg)
+![Vera C. Rubin Observatory logo](/images/research/rubin_logo.png)
 
 ## [Vera C. Rubin Observatory (LSST)](https://rubinobservatory.org/explore/how-rubin-works/lsst)
 
-Rubin Observatory is carrying out the ten-year Legacy Survey of Space and Time (LSST), repeatedly imaging the southern sky. Its vast samples of galaxies and supernovae will probe dark energy and the growth of cosmic structure through weak gravitational lensing, Type Ia supernovae, galaxy clustering, and strong lensing. *Image credit: Todd Mason, Mason Productions Inc. / LSST Corporation.*
+Rubin Observatory is carrying out the ten-year Legacy Survey of Space and Time (LSST), repeatedly imaging the southern sky. Its vast samples of galaxies and supernovae will probe dark energy and the growth of cosmic structure through weak gravitational lensing, Type Ia supernovae, galaxy clustering, and strong lensing.
+
+* * *
+
+![Euclid mission logo](/images/research/euclid_logo.png)
+
+## [Euclid](https://www.esa.int/Science_Exploration/Space_Science/Euclid)
+
+ESA's Euclid space telescope is mapping billions of galaxies across more than one-third of the sky to trace the geometry and growth of large-scale structure over cosmic time. Measurements of weak gravitational lensing and galaxy clustering will probe dark matter, dark energy, gravity, and the expansion history of the Universe.
 
 * * *
 
