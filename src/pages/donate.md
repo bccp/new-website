@@ -16,7 +16,7 @@ The very human desire to know, to understand, to be part of a grand intellectual
 
 An investment in the BCCP is not only an investment in the future of cosmology. It also means creating a model of inquiry that can usher in a new era of 21st century science - with the utility and power to solve very complex problems. Having pioneered data analysis procedures for extremely large data sets, cosmological methodologies have great potential for many other data intensive fields - climate change being the most urgent. Cosmology research created an enormous impact on many disciplines - seeding advances in math, chemistry, engineering, physics, astronomy, astrophysics, particle physics, biology, and even theology and philosophy.
 
-As the University embarks on the [Campaign for Berkeley](http://campaign.berkeley.edu/), BCCP's frontier research and education depends on private philanthropy from UCB alumni and friends, corporations, and foundations. Gifts to Berkeley play an essential role both in sustaining fundamental traditions of excellence and in moving the University forward decisively.
+BCCP's frontier research and education depends on private philanthropy from UCB alumni and friends, corporations, and foundations. Gifts to Berkeley play an essential role both in sustaining fundamental traditions of excellence and in moving the University forward decisively.
 
 For more information, contact BCCP Administrative Officer Maria Feng at [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu).
 
