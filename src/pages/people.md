@@ -74,10 +74,11 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Anousha Greiveldinger
 - Henry Liu
 - Lia Lubit
+- Liam Parker
 - Jannik Truong
 - Tian Xiao
 
-## Former BCCP Postdocs
+## Former BCCP-affiliated Postdocs
 
 - Grigor Aslanyan
 - Anton Baleato Lizancos
