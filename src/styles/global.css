@@ -325,6 +325,25 @@ h3 {
   border-radius: 8px;
 }
 
+.page-donate .donate-photo {
+  margin: 0 0 28px;
+}
+
+.page-donate .donate-photo img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 7;
+  object-fit: cover;
+  object-position: center 58%;
+  border-radius: 8px;
+}
+
+.page-donate .donate-photo figcaption {
+  margin-top: 7px;
+  color: #5b6570;
+  font-size: 0.78rem;
+}
+
 .content section::after {
   content: "";
   display: table;
