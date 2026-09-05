@@ -14,7 +14,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [Greg Aldering](https://supernova.lbl.gov/~aldering/)
 - [James Bartlett](https://n3as.berkeley.edu/p/faculty/james-bartlett/)
 - [Joanne Cohn](https://w.astro.berkeley.edu/~jcohn/)
-- [Jacques Delabrouille](https://profiles.lbl.gov/jacques-delabrouille)
+- [Jacques Delabrouille](https://orcid.org/0000-0002-7217-4689)
 - [Simone Ferraro](https://sferraro.lbl.gov/)
 - [John Groh](https://lowtemperaturecosmicmeasurement.lbl.gov/)
 - [Julien Guy](https://profiles.lbl.gov/julien-guy)
@@ -24,9 +24,10 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [Adrian Lee](https://physics.berkeley.edu/people/faculty/adrian-lee)
 - Michael Levi
 - [Eric Linder](https://supernova.lbl.gov/~evlinder/)
+- [Zarija Lukić](https://scidata.lbl.gov/profile/zlukic/)
 - Pat McDonald
 - [Peter Nugent](https://scidata.lbl.gov/profile/penugent/)
-- [Nathalie Palanque-Delabrouille](https://profiles.lbl.gov/nathalie-palanque-delabrouille)
+- [Nathalie Palanque-Delabrouille](https://newscenter.lbl.gov/2021/05/24/nathalie-palanque-delabrouille-physics-division/)
 - [David Schlegel](https://djschlegel.wordpress.com/)
 - [Clara Vergès](https://claraverges.github.io/)
 - [Martin White](https://w.astro.berkeley.edu/~mwhite/)
