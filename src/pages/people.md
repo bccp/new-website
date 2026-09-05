@@ -82,12 +82,14 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Grigor Aslanyan
 - Anton Baleato Lizancos
 - Kyle Barbary
+- Darcy Barron
 - Peter Behroozi
 - Florian Beutler
 - Vanessa Boehm
 - Phil Bull
 - Emanuele Castorina
 - Solene Chabanier
+- Yuji Chinone
 - Marina Cortês
 - Sudeep Das
 - Roger de Belsunce
@@ -104,6 +106,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - ChangHoon Hahn
 - Brian Hayden
 - Shirley Ho
+- Xiaosheng Huang
 - Lingyuan Ji
 - Minas Karamanis
 - Daniel Kuesters
@@ -126,7 +129,9 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Claire Poppett
 - Giuseppe Puglisi
 - Anand Raichoor
+- Mayuri Rao
 - Beth Reid
+- Shun Saito
 - Emmanuel Schaan
 - Edward Schlafly
 - Marcel Schmittfull
