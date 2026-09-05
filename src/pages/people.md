@@ -6,6 +6,8 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 
 Founded in 2007 by Nobel Laureate [George Smoot](https://aether.lbl.gov/), who served as its first director, BCCP brings together leading cosmologists to investigate fundamental questions about the origin and evolution of the universe.
 
+We work within Berkeley's broader cosmology community, one of the largest in the world. For a more complete list of researchers, see the [Berkeley Cosmology Group directory](https://cosmology.lbl.gov/directory.html).
+
 ## Directors
 
 - [Saul Perlmutter](http://physics.berkeley.edu/people/faculty/saul-perlmutter), Nobel Laureate
