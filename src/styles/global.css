@@ -295,20 +295,18 @@ h3 {
 
 .content img[src*="/images/research/"] {
   float: left;
-  max-width: 170px;
-  max-height: 100px;
+  width: 170px;
+  height: 100px;
   object-fit: contain;
   margin: 0 24px 14px 0;
 }
 
 .content img[src$="/simons_observatory_logo.svg"] {
-  max-width: 245px;
-  max-height: 144px;
+  height: 144px;
 }
 
 .content img[src$="/rubin_logo.png"] {
-  max-width: 140px;
-  max-height: 140px;
+  height: 140px;
 }
 
 .content img[src*="/images/support-endow.jpg"] {
