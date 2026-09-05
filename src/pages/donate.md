@@ -16,6 +16,6 @@ An investment in the BCCP is not only an investment in the future of cosmology. 
 
 As the University embarks on the [Campaign for Berkeley](http://campaign.berkeley.edu/), BCCP's frontier research and education depends on private philanthropy from UCB alumni and friends, corporations, and foundations. Gifts to Berkeley play an essential role both in sustaining fundamental traditions of excellence and in moving the University forward decisively.
 
-For more information, contact BCCP Administrative Officer Laura Fantone.
+For more information, contact BCCP Administrative Officer Maria Feng at [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu).
 
 [Donate](https://give.berkeley.edu/egiving/index.cfm?fund=FU0925000)
