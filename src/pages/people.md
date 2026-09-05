@@ -86,6 +86,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Phil Bull
 - Emanuele Castorina
 - Solene Chabanier
+- Marina Cortês
 - Sudeep Das
 - Roger de Belsunce
 - Joseph DeRose
@@ -102,14 +103,17 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Lingyuan Ji
 - Minas Karamanis
 - Daniel Kuesters
-- Francois Lanusse
 - Paul La Plante
+- Francois Lanusse
+- Alexie Leauthaud
 - Yin Li
+- Adrian Liu
 - Jia Liu
 - Aaron Meisner
 - Marius Millea
 - Michael Mortonson
 - Justin Myles
+- Reiko Nakajima
 - Antonella Palmese
 - Kara Ponder
 - Claire Poppett
