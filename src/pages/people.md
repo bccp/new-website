@@ -166,6 +166,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Matt George
 - Nick Hand
 - Benjamin Horowitz
+- Nicholas Huang
 - Eric Huff
 - Ellie Kitanidis
 - Max Lee
