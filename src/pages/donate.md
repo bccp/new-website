@@ -21,4 +21,4 @@ As the University embarks on the [Campaign for Berkeley](http://campaign.berkele
 
 For more information, contact BCCP Administrative Officer Maria Feng at [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu).
 
-[Donate](https://give.berkeley.edu/egiving/index.cfm?fund=FU0925000)
+<a class="button" href="https://give.berkeley.edu/egiving/index.cfm?fund=FU0925000">Donate to BCCP</a>
