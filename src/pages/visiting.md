@@ -243,7 +243,7 @@ Ido Ben Dayan (Ariel University) August 22- July 30
 
 Address: Campbell Hall 341 University of California, Berkeley, CA 94720
 
-For business inquiries, please contact BCCP Business Administrator, Laura Fantone.
+For business inquiries, please contact BCCP Business Administrator, Maria Feng, at [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu).
 
 For extended visits, please refer to the visitor program information above.
 
