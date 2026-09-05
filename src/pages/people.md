@@ -88,6 +88,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Solene Chabanier
 - Marina Cortês
 - Sudeep Das
+- Tijmen de Haan
 - Roger de Belsunce
 - Joseph DeRose
 - Josh Dillon
