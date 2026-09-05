@@ -29,7 +29,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [Peter Nugent](https://scidata.lbl.gov/profile/penugent/)
 - [Nathalie Palanque-Delabrouille](https://newscenter.lbl.gov/2021/05/24/nathalie-palanque-delabrouille-physics-division/)
 - [David Schlegel](https://djschlegel.wordpress.com/)
-- [Toki Suzuki](https://profiles.lbl.gov/24274-aritoki-suzuki)
+- [Toki Suzuki](https://sites.google.com/lbl.gov/asuzuki/home)
 - [Clara Vergès](https://claraverges.github.io/)
 - [Martin White](https://w.astro.berkeley.edu/~mwhite/)
 
