@@ -40,7 +40,7 @@ Eligibility and host-institution requirements vary by program. Prospective appli
 
 ### Graduate students
 
-Prospective PhD students should apply to the UC Berkeley graduate program in [Physics](https://physics.berkeley.edu/academics/graduate-degree) or [Astronomy](https://astro.berkeley.edu/graduate). Current and admitted Berkeley students may contact senior BCCP members to discuss possible research projects. Students may also wish to consider the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/) and the [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/). Post-qualifying-exam graduate students at US institutions can apply to conduct research at Berkeley Lab for 3 to 12 months through the [DOE Office of Science Graduate Student Research program](https://science.osti.gov/wdts/scgsr).
+Prospective PhD students should apply to the UC Berkeley graduate program in [Physics](https://physics.berkeley.edu/academics/graduate-degree) or [Astronomy](https://astro.berkeley.edu/graduate). Current and admitted Berkeley students may contact senior BCCP members to discuss possible research projects. Eligible students are encouraged to consider the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/) and the [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/). Post-qualifying-exam graduate students at US institutions can apply to conduct research at Berkeley Lab for 3 to 12 months through the [DOE Office of Science Graduate Student Research program](https://science.osti.gov/wdts/scgsr).
 
 ### Undergraduate students
 
