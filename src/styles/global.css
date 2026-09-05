@@ -309,6 +309,10 @@ h3 {
   height: 140px;
 }
 
+.content img[src$="/theoretical_computational_cosmology.png"] {
+  height: 130px;
+}
+
 .content img[src*="/images/support-endow.jpg"] {
   float: right;
   max-width: 240px;
