@@ -28,7 +28,7 @@ The Simons Observatory is a set of millimeter-wave telescopes in Chile's Atacama
 
 ## [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
 
-The Nancy Grace Roman Space Telescope, formerly known as WFIRST, is a NASA infrared observatory designed to investigate dark energy, exoplanets, and a broad range of astrophysics. Its wide-field instrument can survey large areas of the sky with Hubble-like resolution.
+The Nancy Grace Roman Space Telescope is a NASA infrared observatory designed to investigate dark energy, exoplanets, and a broad range of astrophysics. Its wide-field instrument can survey large areas of the sky with Hubble-like resolution.
 
 * * *
 

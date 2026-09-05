@@ -301,6 +301,11 @@ h3 {
   margin: 0 24px 14px 0;
 }
 
+.content img[src$="/simons_observatory_logo.svg"] {
+  max-width: 204px;
+  max-height: 120px;
+}
+
 .content img[src*="/images/support-endow.jpg"] {
   float: right;
   max-width: 240px;
