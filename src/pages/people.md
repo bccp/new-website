@@ -12,7 +12,9 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 ## BCCP-affiliated Faculty and Scientists
 
 - [Greg Aldering](https://supernova.lbl.gov/~aldering/)
+- [James Bartlett](https://n3as.berkeley.edu/p/faculty/james-bartlett/)
 - [Joanne Cohn](https://w.astro.berkeley.edu/~jcohn/)
+- [Jacques Delabrouille](https://profiles.lbl.gov/jacques-delabrouille)
 - [Simone Ferraro](https://sferraro.lbl.gov/)
 - [John Groh](https://lowtemperaturecosmicmeasurement.lbl.gov/)
 - [Julien Guy](https://profiles.lbl.gov/julien-guy)
@@ -24,6 +26,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [Eric Linder](https://supernova.lbl.gov/~evlinder/)
 - Pat McDonald
 - [Peter Nugent](https://scidata.lbl.gov/profile/penugent/)
+- [Nathalie Palanque-Delabrouille](https://profiles.lbl.gov/nathalie-palanque-delabrouille)
 - [David Schlegel](https://djschlegel.wordpress.com/)
 - [Clara Vergès](https://claraverges.github.io/)
 - [Martin White](https://w.astro.berkeley.edu/~mwhite/)
@@ -51,7 +54,9 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [Dylan Green](https://dylanagreen.github.io/)
 - Oliver Jeong
 - [Anthony Kremin](https://www.darkenergysurvey.org/scientistoftheweek/anthony-kremin/)
+- [Abby Lee](https://abiglee7.github.io/)
 - [Calvin Leung](https://leungcalvin.github.io/)
+- [Siyang Li](https://orcid.org/0000-0002-8623-1082)
 - [Zack Li](https://zack.li/)
 - [Yifei Luo](https://www.yifei-luo.com/)
 - Nicolò Raffuzzi
