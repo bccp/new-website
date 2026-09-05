@@ -90,9 +90,10 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Solene Chabanier
 - Marina Cortês
 - Sudeep Das
-- Tijmen de Haan
 - Roger de Belsunce
+- Tijmen de Haan
 - Joseph DeRose
+- Enea Di Dio
 - Josh Dillon
 - Aaron Ewall-Wice
 - Xiao Fang
