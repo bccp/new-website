@@ -17,6 +17,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [John Groh](https://lowtemperaturecosmicmeasurement.lbl.gov/)
 - [Julien Guy](https://profiles.lbl.gov/julien-guy)
 - [William Holzapfel](https://physics.berkeley.edu/people/faculty/william-holzapfel)
+- [Taylor Hoyt](https://thoyt.lbl.gov/)
 - [Alex Kim](http://panisse.lbl.gov/~akim/)
 - [Adrian Lee](http://physics.berkeley.edu/people/faculty/adrian-lee)
 - Michael Levi
@@ -30,6 +31,8 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 ## Current BCCP Postdoctoral Fellows
 
 - [Anshuman Acharya](https://www.anshumanastro.com/)
+- [Kangning Diao](https://dkn16.github.io/)
+- [Richard Feder](https://richardfeder.github.io/)
 - [Alina Sabyr](https://asabyr.github.io/)
 - Hugo Simon
 - [Natalí de Santi](https://natalidesanti.github.io/)
