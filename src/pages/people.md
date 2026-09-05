@@ -40,11 +40,23 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 
 ## Current BCCP-affiliated Postdocs and Project Scientists
 
+- Alexandre Adler
+- John Banovetz
+- Abby Bault
+- Allyson Brodzeller
+- Edmond Chaussidon
+- Andrei Cuceu
+- Shashank Dholakia
 - [Gerrit Farren](https://gerrfarr.github.io/)
 - Shamik Ghosh
+- Dylan Green
+- Oliver Jeong
 - [Minas Karamanis](https://www.minaskaramanis.com)
 - Anthony Kremin
+- Calvin Leung
 - Zack Li
+- Yifei Luo
+- Nicolò Raffuzzi
 - [Rongpu Zhou](https://rongpu.github.io/)
 
 ## BCCP-affiliated Graduate and Undergraduate students
