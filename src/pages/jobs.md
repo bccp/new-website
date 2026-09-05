@@ -14,7 +14,7 @@ Starting this year, you are able to take the [Brinson Prize Fellowship](https://
 
 ## General Information
 
-BCCP brings together researchers at UC Berkeley and Lawrence Berkeley National Laboratory. Prospective postdoctoral researchers are encouraged to apply to opportunities at both institutions: BCCP operates as one group, and researchers can collaborate across the broader Berkeley cosmology community regardless of their formal host institution.
+BCCP brings together researchers at UC Berkeley and Lawrence Berkeley National Laboratory. Prospective postdoctoral researchers are encouraged to apply to opportunities at both institutions: BCCP operates as one group, and researchers collaborate across the broader Berkeley cosmology community regardless of their formal host institution.
 
 ### UC Berkeley postdoctoral opportunities
 
@@ -26,7 +26,7 @@ Berkeley Lab opportunities include the [Owen Chamberlain Fellowship](https://www
 
 ### External postdoctoral fellowships
 
-BCCP members regularly host fellows supported by the [NASA Hubble Fellowship Program](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program), the [NSF Astronomy and Astrophysics Postdoctoral Fellowships](https://new.nsf.gov/funding/opportunities/nsf-astronomy-astrophysics-postdoctoral), and the [Brinson Prize Fellowship](https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program).
+BCCP members regularly host fellows supported by the [NASA Hubble Fellowship Program](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program), the [NSF Astronomy and Astrophysics Postdoctoral Fellowships](https://new.nsf.gov/funding/opportunities/nsf-astronomy-astrophysics-postdoctoral), and the [Brinson Prize Fellowship](https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program). We encourage you to apply to these excellent opportunities and take them to Berkeley. Please get in touch with a senior BCCP member for further guidance if you are considering an application.
 
 ### Foreign fellowships
 
@@ -44,4 +44,4 @@ Prospective PhD students should apply to the UC Berkeley graduate program in [Ph
 
 ### Undergraduate students
 
-Undergraduate research opportunities are available through UC Berkeley's [Undergraduate Research Apprentice Program](https://research.berkeley.edu/urap/), Berkeley Lab's [SULI](https://education.lbl.gov/internships/suli/) and [BLUM](https://education.lbl.gov/internships/blur-2/) programs, and the [N3AS undergraduate research program](https://n3as.berkeley.edu/collaboration/undergraduates/berkeley/burn-program-description/). The UC Berkeley Physics and Astronomy departments also maintain guidance on undergraduate research and funding opportunities.
+Undergraduate research opportunities are available through UC Berkeley's [Undergraduate Research Apprentice Program](https://research.berkeley.edu/urap/), Berkeley Lab's [SULI](https://education.lbl.gov/internships/suli/) and [BLUM](https://education.lbl.gov/internships/blur-2/) programs, and the [N3AS undergraduate research program](https://n3as.berkeley.edu/collaboration/undergraduates/berkeley/burn-program-description/). The UC Berkeley [Physics](https://physics.berkeley.edu/academics/undergraduate-research) and [Astronomy](https://astro.berkeley.edu/research/student-research-opportunities) departments also maintain guidance on undergraduate research and funding opportunities.
