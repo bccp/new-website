@@ -82,6 +82,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 ## Former BCCP-affiliated Postdocs
 
 - Grigor Aslanyan
+- Alejandro Avilés
 - Anton Baleato Lizancos
 - Kyle Barbary
 - Darcy Barron
