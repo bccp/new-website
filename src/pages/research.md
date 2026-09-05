@@ -24,6 +24,14 @@ The Simons Observatory is a set of millimeter-wave telescopes in Chile's Atacama
 
 * * *
 
+![Rubin Observatory beneath the night sky](/images/research/rubin_observatory.jpg)
+
+## [Vera C. Rubin Observatory (LSST)](https://rubinobservatory.org/explore/how-rubin-works/lsst)
+
+Rubin Observatory is carrying out the ten-year Legacy Survey of Space and Time (LSST), repeatedly imaging the southern sky. Its vast samples of galaxies and supernovae will probe dark energy and the growth of cosmic structure through weak gravitational lensing, Type Ia supernovae, galaxy clustering, and strong lensing. *Image credit: Todd Mason, Mason Productions Inc. / LSST Corporation.*
+
+* * *
+
 ![Nancy Grace Roman Space Telescope project logo](/images/research/roman_logo.jpg)
 
 ## [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
