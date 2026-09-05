@@ -20,7 +20,15 @@ DESI measures how dark energy affects the expansion of the Universe by collectin
 
 ## [Simons Observatory](https://simonsobservatory.org/)
 
-The Simons Observatory is a set of millimeter-wave telescopes in Chile's Atacama Desert that maps the cosmic microwave background and other signals across the sky. These observations probe the origin, evolution, and composition of the Universe, including dark matter, neutrinos, and cosmic acceleration.
+The Simons Observatory is a set of millimeter-wave telescopes in Chile's Atacama Desert that maps the cosmic microwave background. These observations probe the origin, evolution, and composition of the Universe, including dark matter, neutrinos, and cosmic acceleration.
+
+* * *
+
+![Nancy Grace Roman Space Telescope project logo](/images/research/roman_logo.jpg)
+
+## [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
+
+The Nancy Grace Roman Space Telescope, formerly known as WFIRST, is a NASA infrared observatory designed to investigate dark energy, exoplanets, and a broad range of astrophysics. Its wide-field instrument can survey large areas of the sky with Hubble-like resolution.
 
 * * *
 
@@ -58,7 +66,7 @@ The Computational Cosmology Center (C3) brings together astrophysicists and comp
 
 ![Supernova Cosmology Project logo](/images/research/scp_logo.jpg)
 
-## [Supernova Cosmology Project](https://www.physics.lbl.gov/cosmo/type-ia/)
+## [Supernova Cosmology Project](https://supernova.lbl.gov/)
 
 The Supernova Cosmology Project (SCP) discovered the accelerating expansion of the Universe using Type Ia supernovae. Its researchers continue to use observations from ground- and space-based telescopes to improve measurements of dark energy.
 
@@ -69,9 +77,3 @@ The Supernova Cosmology Project (SCP) discovered the accelerating expansion of t
 ## [Nearby Supernova Factory](https://snfactory.lbl.gov/)
 
 The Nearby Supernova Factory (SNfactory) develops Type Ia supernovae as tools for measuring the expansion history of the Universe and exploring the nature of dark energy.
-
-* * *
-
-## [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
-
-The Nancy Grace Roman Space Telescope, formerly known as WFIRST, is a NASA infrared observatory designed to investigate dark energy, exoplanets, and a broad range of astrophysics. Its wide-field instrument can survey large areas of the sky with Hubble-like resolution.
