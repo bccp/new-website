@@ -4,7 +4,7 @@ title: "Jobs"
 description: "Postdoctoral fellowships and other opportunities in Berkeley cosmology."
 ---
 
-## Announcements
+## Current Announcements
 
 The fall 2026 Berkeley Center for Cosmological Physics (BCCP) postdoctoral fellowship search is now open! Please apply at [this link](https://academicjobsonline.org/ajo/jobs/25565) by the November 10 deadline.
 
@@ -14,7 +14,7 @@ Starting this year, you are able to take the [Brinson Prize Fellowship](https://
 
 ## General Information
 
-BCCP brings together researchers at UC Berkeley and Lawrence Berkeley National Laboratory. Postdoctoral researchers are part of the broader Berkeley cosmology community and can collaborate across both institutions, regardless of their formal host institution.
+BCCP brings together researchers at UC Berkeley and Lawrence Berkeley National Laboratory. Prospective postdoctoral researchers are encouraged to apply to opportunities at both institutions: BCCP operates as one group, and researchers can collaborate across the broader Berkeley cosmology community regardless of their formal host institution.
 
 ### UC Berkeley postdoctoral opportunities
 
@@ -26,7 +26,17 @@ Berkeley Lab opportunities include the [Owen Chamberlain Fellowship](https://www
 
 ### External postdoctoral fellowships
 
-BCCP members regularly host fellows supported by the [NASA Hubble Fellowship Program](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program), the [NSF Astronomy and Astrophysics Postdoctoral Fellowships](https://new.nsf.gov/funding/opportunities/nsf-astronomy-astrophysics-postdoctoral), and the [Brinson Prize Fellowship](https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program), as well as fellowships from other countries and institutions. Prospective applicants should contact one or more senior BCCP members well before the relevant deadline to discuss research fit, institutional eligibility, and sponsorship.
+BCCP members regularly host fellows supported by the [NASA Hubble Fellowship Program](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program), the [NSF Astronomy and Astrophysics Postdoctoral Fellowships](https://new.nsf.gov/funding/opportunities/nsf-astronomy-astrophysics-postdoctoral), and the [Brinson Prize Fellowship](https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program).
+
+### Foreign fellowships
+
+BCCP also welcomes postdoctoral researchers supported by fellowships from outside the United States. Relevant programs include:
+
+- [Canada Postdoctoral Research Award](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program) (Canada)
+- [SNSF Postdoc.Mobility](https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility) (Switzerland)
+- [Marie Skłodowska-Curie Actions Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) (European Union)
+
+Eligibility and host-institution requirements vary by program. Prospective applicants should contact one or more senior BCCP members well before the relevant deadline to discuss research fit, eligibility, and sponsorship.
 
 ### Graduate students
 
