@@ -40,21 +40,21 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 
 ## Current BCCP-affiliated Postdocs and Project Scientists
 
-- Alexandre Adler
+- [Alexandre Adler](https://scidata.lbl.gov/profile/aadler/)
 - John Banovetz
-- Abby Bault
-- Allyson Brodzeller
-- Edmond Chaussidon
-- Andrei Cuceu
-- Shashank Dholakia
+- [Abby Bault](https://www.desi.lbl.gov/2022/01/21/abby-bault/)
+- [Allyson Brodzeller](https://www.desi.lbl.gov/2023/06/30/allyson-brodzeller/)
+- [Edmond Chaussidon](https://echaussidon.github.io/portfolio/)
+- [Andrei Cuceu](https://andreicuceu.github.io/)
+- [Shashank Dholakia](https://shashankdholakia.github.io/)
 - [Gerrit Farren](https://gerrfarr.github.io/)
-- Shamik Ghosh
-- Dylan Green
-- Oliver Jeong
-- Anthony Kremin
-- Calvin Leung
-- Zack Li
-- Yifei Luo
+- [Shamik Ghosh](https://1cosmologist.github.io/)
+- [Dylan Green](https://dylanagreen.github.io/)
+- [Oliver Jeong](https://physics.berkeley.edu/people/graduate-student/oliver-jeong)
+- [Anthony Kremin](https://www.darkenergysurvey.org/scientistoftheweek/anthony-kremin/)
+- [Calvin Leung](https://leungcalvin.github.io/)
+- [Zack Li](https://zack.li/)
+- [Yifei Luo](https://www.yifei-luo.com/)
 - Nicolò Raffuzzi
 - [Rongpu Zhou](https://rongpu.github.io/)
 
