@@ -98,6 +98,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Boryana Hadzhiyska
 - ChangHoon Hahn
 - Brian Hayden
+- Shirley Ho
 - Lingyuan Ji
 - Minas Karamanis
 - Daniel Kuesters
@@ -129,6 +130,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Marcel van Daalen
 - Noah Weaverdyck
 - Michael Wilson
+- Oliver Zahn
 - HongMing Zhu
 - Miguel Zumalacarregui
 
