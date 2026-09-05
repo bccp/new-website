@@ -66,6 +66,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 
 ## BCCP-affiliated Graduate and Undergraduate students
 
+- Julius Adolff
 - Makai Baker
 - Alexa Bartlett
 - Jean Choppin de Janvry
