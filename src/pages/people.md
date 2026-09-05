@@ -22,10 +22,10 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [Taylor Hoyt](https://thoyt.lbl.gov/)
 - [Alex Kim](https://alexgkim.github.io/about/)
 - [Adrian Lee](https://physics.berkeley.edu/people/faculty/adrian-lee)
-- Michael Levi
+- [Michael Levi](https://profiles.lbl.gov/19013-michael-levi)
 - [Eric Linder](https://supernova.lbl.gov/~evlinder/)
 - [Zarija Lukić](https://scidata.lbl.gov/profile/zlukic/)
-- Pat McDonald
+- [Pat McDonald](https://profiles.lbl.gov/21458-patrick-mcdonald)
 - [Peter Nugent](https://scidata.lbl.gov/profile/penugent/)
 - [Nathalie Palanque-Delabrouille](https://newscenter.lbl.gov/2021/05/24/nathalie-palanque-delabrouille-physics-division/)
 - [David Schlegel](https://djschlegel.wordpress.com/)
