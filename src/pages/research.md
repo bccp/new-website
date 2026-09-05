@@ -12,6 +12,14 @@ These are some of the projects that are either led by BCCP scientists, or that h
 
 * * *
 
+![Abstract representation of cosmological theory, simulations, and data](/images/research/theoretical_computational_cosmology.png)
+
+## Theoretical and Computational Cosmology
+
+BCCP researchers develop theoretical models and computational methods to study the cosmic microwave background (CMB), large-scale structure (LSS), and line-intensity mapping (LIM). This work combines analytic theory, numerical simulations, machine learning, and statistical inference to extract fundamental physics from cosmological observations.
+
+* * *
+
 ![Dark Energy Spectroscopic Instrument logo](/images/research/desi_logo.jpg)
 
 ## [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov/)
