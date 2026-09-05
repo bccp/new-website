@@ -49,16 +49,8 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 
 ## BCCP-affiliated Graduate and Undergraduate students
 
-- Biwei Dai
 - Haruki Ebina
-- Nathaniel Leslie
 - Henry Liu
-- Mark Maus
-- Jakob Robnik
-- Elisa Russier
-- Noah Sailer
-- James Sullivan
-- Winston Yin
 
 ## Former BCCP Postdocs
 
@@ -122,6 +114,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Jonathan Blazek
 - Kyle Boone
 - [Stephen Chen](https://sfschen.github.io/)
+- Biwei Dai
 - Parker Fagrelius
 - Hannah Fakhouri
 - Matt George
@@ -130,12 +123,19 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Eric Huff
 - Ellie Kitanidis
 - Max Lee
+- Nathaniel Leslie
+- Mark Maus
 - Nishant Mishra
 - [Chirag Modi](https://bids.berkeley.edu/people/chirag-modi/)
 - Yookyung Noh
+- Jakob Robnik
+- Elisa Russier
+- Noah Sailer
 - Clare Saunders
 - Caroline Sofiatti
 - Casey Stark
+- James Sullivan
+- Winston Yin
 - Byeonghee Yu
 
 ## BCCP Administrator
