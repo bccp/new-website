@@ -82,6 +82,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Grigor Aslanyan
 - Anton Baleato Lizancos
 - Kyle Barbary
+- Peter Behroozi
 - Florian Beutler
 - Vanessa Boehm
 - Phil Bull
@@ -112,6 +113,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Yin Li
 - Adrian Liu
 - Jia Liu
+- Matt McQuinn
 - Aaron Meisner
 - Marius Millea
 - Michael Mortonson
