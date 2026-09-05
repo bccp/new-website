@@ -17,7 +17,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [Jacques Delabrouille](https://orcid.org/0000-0002-7217-4689)
 - [Simone Ferraro](https://sferraro.lbl.gov/)
 - [John Groh](https://lowtemperaturecosmicmeasurement.lbl.gov/)
-- [Julien Guy](https://profiles.lbl.gov/julien-guy)
+- [Julien Guy](https://profiles.lbl.gov/26109-julien-guy)
 - [William Holzapfel](https://physics.berkeley.edu/people/faculty/william-holzapfel)
 - [Taylor Hoyt](https://thoyt.lbl.gov/)
 - [Alex Kim](https://alexgkim.github.io/about/)
