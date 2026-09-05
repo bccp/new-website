@@ -6,35 +6,37 @@ description: "Visitor program information and records of current and previous BC
 
 We maintain an active program for visiting scholars. BCCP hosts visitors at all levels, from senior scientists to postdocs, graduate students, and undergraduates. Longer term visits involving collaborative activities with BCCP members are especially encouraged. BCCP can provide financial support for longer term visitors working with BCCP members on BCCP related projects. The applications are reviewed by a committee several times a year. All decisions are based on the availability of space and funding.
 
-## Current Visitors
+## 2026
 
-### Spring 2024
-
--   Mathew Robertson
--   Kangning Diao
-
-### Fall 2023
-
--   Jose Maria Palencia
--   Alejandro Avilés Cervantes
--   David Nabergoj
-
-### Summer 2023
-
--   Stephen Chen (August 2023)
--   Karthik Viswanathan (August 2023)
--   Jyotsna Ravi (July 2023 Pi2 research program)
+-   Alejandro Cartes Silva
+-   Sam Goldstein
 
 ## Previous Visitors
 
+### 2025
+
+-   Alejandro Cartes Silva
+-   Erik Zaborowski
+
+### 2024
+
+-   Kangning Diao (Spring 2024)
+-   Alex Reeves
+
 ### 2023
 
+-   Alejandro Avilés Cervantes (Fall 2023)
 -   Gerrit Farren (May 2023)
 -   Marco Bonici (March- April 2023)
+-   Stephen Chen (August 2023)
+-   David Nabergoj (Fall 2023)
+-   Jose Maria Palencia (Fall 2023)
+-   Jyotsna Ravi (July 2023 Pi2 research program)
 -   Hee-Jong Seo (Ohio University) 2022-23
 -   Richard Grumitt (Oxford) Spring 2023
 -   Tijan Prijon (December 22- January 2023)
 -   Jamie Ruiz Zapatero (Oxford University) January 2023
+-   Karthik Viswanathan (August 2023)
 
 ### 2021-22
 
