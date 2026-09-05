@@ -306,6 +306,11 @@ h3 {
   max-height: 144px;
 }
 
+.content img[src$="/rubin_logo.png"] {
+  max-width: 140px;
+  max-height: 140px;
+}
+
 .content img[src*="/images/support-endow.jpg"] {
   float: right;
   max-width: 240px;
