@@ -4,7 +4,7 @@ title: "People"
 description: "BCCP-affiliated directors, faculty, scientists, postdocs, students, alumni, and administrators."
 ---
 
-Founded in 2007 by Nobel laureate [George Smoot](https://aether.lbl.gov/), who served as its first director, BCCP brings together leading cosmologists to investigate fundamental questions about the origin and evolution of the universe.
+Founded in 2007 by Nobel Laureate [George Smoot](https://aether.lbl.gov/), who served as its first director, BCCP brings together leading cosmologists to investigate fundamental questions about the origin and evolution of the universe.
 
 ## Directors
 
