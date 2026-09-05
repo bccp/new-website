@@ -325,21 +325,19 @@ h3 {
   border-radius: 8px;
 }
 
-.page-donate .donate-photo {
-  margin: 0 0 28px;
-}
-
-.page-donate .donate-photo img {
+.page-donate img[src$="/campanile-donate.jpg"] {
   display: block;
   width: 100%;
   aspect-ratio: 16 / 7;
   object-fit: cover;
   object-position: center 58%;
+  margin: 0;
   border-radius: 8px;
 }
 
-.page-donate .donate-photo figcaption {
-  margin-top: 7px;
+.page-donate .photo-credit {
+  display: block;
+  margin: 7px 0 28px;
   color: #5b6570;
   font-size: 0.78rem;
 }

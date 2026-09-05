@@ -6,10 +6,9 @@ description: "Support BCCP research, education, visitors, workshops, and student
 
 ## The BCCP Partner Fund
 
-<figure class="donate-photo">
-  <img src="/images/campanile-donate.jpg" alt="Sather Tower viewed along Campanile Way on the UC Berkeley campus." />
-  <figcaption>Photo by <a href="https://commons.wikimedia.org/wiki/User:Mizzlbrd">Mizzlbrd</a>, via <a href="https://commons.wikimedia.org/wiki/File:Uc_berkeley_campus.jpg">Wikimedia Commons</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>).</figcaption>
-</figure>
+![Sather Tower viewed along Campanile Way on the UC Berkeley campus.](/images/campanile-donate.jpg)
+
+<small class="photo-credit">Photo by <a href="https://commons.wikimedia.org/wiki/User:Mizzlbrd">Mizzlbrd</a>, via <a href="https://commons.wikimedia.org/wiki/File:Uc_berkeley_campus.jpg">Wikimedia Commons</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>).</small>
 
 Unlocking the mysteries of the universe is an exciting scientific challenge. How will we succeed? With visionary funders who understand the magnitude of the moment and are willing to make an investment in the future of science. As a heroic partner with the BCCP, we can illuminate the infrastructure of the universe and help nurture the next generation of promising scientists.
 
