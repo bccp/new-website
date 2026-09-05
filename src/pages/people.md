@@ -60,8 +60,16 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 
 ## BCCP-affiliated Graduate and Undergraduate students
 
+- Makai Baker
+- Alexa Bartlett
+- Jean Choppin de Janvry
+- Anna Coerver
 - Haruki Ebina
+- Anousha Greiveldinger
 - Henry Liu
+- Lia Lubit
+- Jannik Truong
+- Tian Xiao
 
 ## Former BCCP Postdocs
 
