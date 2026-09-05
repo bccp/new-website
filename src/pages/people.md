@@ -51,7 +51,6 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - Shamik Ghosh
 - Dylan Green
 - Oliver Jeong
-- [Minas Karamanis](https://www.minaskaramanis.com)
 - Anthony Kremin
 - Calvin Leung
 - Zack Li
@@ -87,6 +86,7 @@ description: "BCCP-affiliated directors, faculty, scientists, postdocs, students
 - [ChangHoon Hahn](http://changhoonhahn.github.io)
 - Brian Hayden
 - Lingyuan Ji
+- [Minas Karamanis](https://www.minaskaramanis.com)
 - Daniel Kuesters
 - [Francois Lanusse](https://flanusse.net/)
 - [Paul La Plante](https://plaplant.github.io/)
