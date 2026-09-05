@@ -4,7 +4,7 @@ title: "Jobs"
 description: "Postdoctoral fellowships and other opportunities in Berkeley cosmology."
 ---
 
-The fall 2023 Berkeley Center for Cosmological Physics (BCCP) postdoctoral fellowship search is now open! Please apply at [this link](https://academicjobsonline.org/ajo/jobs/25565) by the November 10 deadline.
+The fall 2026 Berkeley Center for Cosmological Physics (BCCP) postdoctoral fellowship search is now open! Please apply at [this link](https://academicjobsonline.org/ajo/jobs/25565) by the November 10 deadline.
 
 If you are interested in joining the Cosmology group at Berkeley, please also consider applying to the [Cosmology Postdoctoral Fellowship](https://academicjobsonline.org/ajo/jobs/26189) at Lawrence Berkeley National Lab (LBNL) by the November 12 deadline. If you have already applied to the Chamberlain Fellowship at LBNL, you will automatically be considered for this opportunity as well.
 
