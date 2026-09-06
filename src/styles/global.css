@@ -132,7 +132,7 @@ img {
 
 .hero {
   display: grid;
-  grid-template-columns: minmax(0, 1.25fr) minmax(280px, 0.75fr);
+  grid-template-columns: minmax(0, 0.95fr) minmax(360px, 1.05fr);
   gap: 42px;
   align-items: center;
   padding: 60px 0 48px;
