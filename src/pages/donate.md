@@ -20,4 +20,4 @@ BCCP's frontier research and education depends on private philanthropy from UCB 
 
 For more information, contact BCCP Administrative Officer Maria Feng at [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu).
 
-<a class="button" href="https://give.berkeley.edu/egiving/index.cfm?fund=FU0925000">Donate to BCCP</a>
+<a class="button" href="https://give.berkeley.edu/">Donate to BCCP</a>
