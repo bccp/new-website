@@ -4,14 +4,13 @@ import BaseLayout from "./BaseLayout.astro";
 interface Props {
   title: string;
   description?: string;
-  eyebrow?: string;
   frontmatter?: {
     title?: string;
     description?: string;
   };
 }
 
-const { title, description, eyebrow = "BCCP" } = Astro.props;
+const { title, description } = Astro.props;
 const pageTitle = title ?? Astro.props.frontmatter?.title;
 const pageDescription = description ?? Astro.props.frontmatter?.description;
 const pageClass = pageTitle ? `page-${pageTitle.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}` : "";
@@ -20,7 +19,6 @@ const pageClass = pageTitle ? `page-${pageTitle.toLowerCase().replace(/[^a-z0-9]
 <BaseLayout title={pageTitle} description={pageDescription}>
   <section class="page-hero">
     <div class="section">
-      <div class="eyebrow">{eyebrow}</div>
       <h1>{pageTitle}</h1>
       {pageDescription && <p class="lead">{pageDescription}</p>}
     </div>
