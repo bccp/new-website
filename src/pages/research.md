@@ -44,14 +44,6 @@ Rubin Observatory is carrying out the ten-year Legacy Survey of Space and Time (
 
 * * *
 
-![Euclid mission logo](/images/research/euclid_logo.png)
-
-## [Euclid](https://www.esa.int/Science_Exploration/Space_Science/Euclid)
-
-ESA's Euclid space telescope is mapping billions of galaxies across more than one-third of the sky to trace the geometry and growth of large-scale structure over cosmic time. Measurements of weak gravitational lensing and galaxy clustering will probe dark matter, dark energy, gravity, and the expansion history of the Universe.
-
-* * *
-
 ![Nancy Grace Roman Space Telescope project logo](/images/research/roman_logo.jpg)
 
 ## [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
@@ -60,27 +52,19 @@ The Nancy Grace Roman Space Telescope is a NASA infrared observatory designed to
 
 * * *
 
+![Euclid mission logo](/images/research/euclid_logo.png)
+
+## [Euclid](https://www.esa.int/Science_Exploration/Space_Science/Euclid)
+
+ESA's Euclid space telescope is mapping billions of galaxies across more than one-third of the sky to trace the geometry and growth of large-scale structure over cosmic time. Measurements of weak gravitational lensing and galaxy clustering will probe dark matter, dark energy, gravity, and the expansion history of the Universe.
+
+* * *
+
 ![Sloan Digital Sky Survey III logo](/images/research/sdss3_logo.png)
 
 ## [BOSS](https://www.sdss4.org/surveys/boss/)
 
 The Baryon Oscillation Spectroscopic Survey (BOSS) was a five-year survey designed to make precise measurements of the Baryon Acoustic Oscillation signal. It obtained spectra of approximately 1.5 million galaxies and more than 160,000 quasars.
-
-* * *
-
-![POLARBEAR logo](/images/research/polarbear_logo.png)
-
-## [POLARBEAR](https://lambda.gsfc.nasa.gov/product/polarbear/)
-
-The Polarization of Background Radiation (POLARBEAR) experiment measures polarization in the cosmic microwave background (CMB). Its observations investigate the origin and evolution of the Universe and test physics beyond the Standard Model.
-
-* * *
-
-![Dark Energy Survey logo](/images/research/des_logo.jpg)
-
-## [Dark Energy Survey](https://www.darkenergysurvey.org/)
-
-The Dark Energy Survey (DES) mapped hundreds of millions of galaxies and detected thousands of supernovae. It uses supernovae, baryon acoustic oscillations, galaxy clusters, and weak gravitational lensing to study the accelerating expansion of the Universe.
 
 * * *
 
@@ -97,3 +81,19 @@ The Supernova Cosmology Project (SCP) discovered the accelerating expansion of t
 ## [Nearby Supernova Factory](https://snfactory.lbl.gov/)
 
 The Nearby Supernova Factory (SNfactory) develops Type Ia supernovae as tools for measuring the expansion history of the Universe and exploring the nature of dark energy.
+
+* * *
+
+![POLARBEAR logo](/images/research/polarbear_logo.png)
+
+## [POLARBEAR](https://lambda.gsfc.nasa.gov/product/polarbear/)
+
+The Polarization of Background Radiation (POLARBEAR) experiment measures polarization in the cosmic microwave background (CMB). Its observations investigate the origin and evolution of the Universe and test physics beyond the Standard Model.
+
+* * *
+
+![Dark Energy Survey logo](/images/research/des_logo.jpg)
+
+## [Dark Energy Survey](https://www.darkenergysurvey.org/)
+
+The Dark Energy Survey (DES) mapped hundreds of millions of galaxies and detected thousands of supernovae. It uses supernovae, baryon acoustic oscillations, galaxy clusters, and weak gravitational lensing to study the accelerating expansion of the Universe.
