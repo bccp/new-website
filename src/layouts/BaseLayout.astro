@@ -38,7 +38,10 @@ const isCurrentPage = (href: string) => href === "/" ? normalizedCurrentPath ===
     <header class="site-header">
       <div class="header-inner">
         <a class="brand" href={withBase("/")} aria-label="BCCP home">
-          <img src={withBase("/images/logo_108.png")} alt="" />
+          <img
+            src={withBase("/images/logo_108.png")}
+            alt="Berkeley Center for Cosmological Physics"
+          />
         </a>
         <nav class="nav" aria-label="Primary navigation">
           {nav.map((item) => (
