@@ -12,6 +12,7 @@ description: "Seminars, lunches, workshops, and center events."
 
 - [New Frontiers in Cosmology](https://www.fundacion.udc.es/cosmology-conference-coruna-2026/), 2026 August 10-14, A Coruña, Spain
 - [Cosmology in the Adriatic -- From PT to AI](https://bccp-berkeley-2024-split.netlify.app/), 2024 July 14-20, Split, Croatia
+- [Fundamental Physics from Future Spectroscopic Surveys](https://indico.physics.lbl.gov/event/2769/overview), 2024 May 6-8, Berkeley, CA. *Exploring signatures of physics beyond the Standard Model in large-scale structure with ongoing and future spectroscopic surveys*
 - [Vipolze](https://bccp.lbl.gov/2022-Smartno/index.html), 2022 July 17-23, Vipolze, Slovenia
 - [Reionization and Cosmic Dawn: Looking Forward To the Past](https://bccp.lbl.gov/2022-reionization/index.html), 2022 Mar 21-23, Berkeley, CA
 - [Spectroscopic Surveys: Are We Ready For the Future](https://bccp.lbl.gov/2020-spectroscopic/index.html), 2020 Jan 13-15, Berkeley, CA
