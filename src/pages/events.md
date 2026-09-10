@@ -15,8 +15,8 @@ description: "Seminars, lunches, workshops, and center events."
 - [Fundamental Physics from Future Spectroscopic Surveys](https://indico.physics.lbl.gov/event/2769/overview), 2024 May 6-8, Berkeley, CA
 - [Vipolze](https://bccp.lbl.gov/2022-Smartno/index.html), 2022 July 17-23, Vipolze, Slovenia
 - [Reionization and Cosmic Dawn: Looking Forward To the Past](https://bccp.lbl.gov/2022-reionization/index.html), 2022 Mar 21-23, Berkeley, CA
-- [Spectroscopic Surveys: Are We Ready For the Future](https://bccp.lbl.gov/2020-spectroscopic/index.html), 2020 Jan 13-15, Berkeley, CA
-- [Weak gravitational lensing 2019](https://bccp.lbl.gov/2019-lensing/index.html), 2019 Jan 14-16, Berkeley, CA
+- [Spectroscopic Surveys: Are We Ready For the Future?](https://bccp.lbl.gov/2020-spectroscopic/index.html), 2020 Jan 13-15, Berkeley, CA
+- [Accurate lensing in the era of precision Cosmology](https://bccp.lbl.gov/2019-lensing/index.html), 2019 Jan 14-16, Berkeley, CA
 - [The Nonlinear Universe 2018](https://bccp.lbl.gov/2018-non-linear-universe/index.html), 2018 July 15-21, Smartno, Slovenia
 - [Modeling the Extragalactic Sky](https://bccp.lbl.gov/2018-extra-galactic/index.html), 2018 January 10-12, Berkeley, CA
 - [The Nonlinear Universe](https://bccp.lbl.gov/2017-non-linear-universe/index.html), 2017 July 16-22, Smartno, Slovenia
