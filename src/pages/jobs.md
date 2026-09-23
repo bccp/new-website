@@ -6,11 +6,11 @@ description: "Postdoctoral fellowships and other opportunities in Berkeley cosmo
 
 ## Current Announcements
 
-The fall 2026 Berkeley Center for Cosmological Physics (BCCP) postdoctoral fellowship will open soon and will be posted to [AAS Job Register](https://jobregister.aas.org/). Look here for an announcement shortly.
+The Fall 2026 Berkeley Center for Cosmological Physics (BCCP) Postdoctoral Fellowship is now open, and the deadline is **November 15**. [Apply here!](https://aas.org/jobregister/ad/9a2ae398)
 
-If you are interested in joining the Cosmology group at Berkeley, please also consider applying to the Chamberlain Fellowship at Berkeley Lab. It will be advertised on the [AAS Job Register](https://jobregister.aas.org/). 
+If you are interested in joining the Cosmology group at Berkeley, please also consider applying to the Chamberlain Fellowship at Berkeley Lab by the **October 18** deadline. You can [apply here](https://aas.org/jobregister/ad/344df3b1). 
 
-We also encourage you to apply to the [Hubble/Einstein](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program), [NSF](https://new.nsf.gov/funding/opportunities/nsf-astronomy-astrophysics-postdoctoral), [Brinson](https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program) and any other fellowships you may be eligible for and to take them to Berkeley.
+We also encourage you to apply to the [Hubble/Einstein](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program), [NSF](https://new.nsf.gov/funding/opportunities/nsf-astronomy-astrophysics-postdoctoral), [Brinson](https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program) and any other fellowships you may be eligible for and to take them to Berkeley. Please see below for more information and other opportunities!
 
 ## General Information
 
