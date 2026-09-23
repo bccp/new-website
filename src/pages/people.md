@@ -9,7 +9,7 @@ Founded in 2007 by Nobel Laureate [George Smoot](https://aether.lbl.gov/), who s
 ## Directors
 
 - [Saul Perlmutter](http://physics.berkeley.edu/people/faculty/saul-perlmutter), Nobel Laureate
-- [Uros Seljak](http://physics.berkeley.edu/people/faculty/uros-seljak)
+- [Uroš Seljak](http://physics.berkeley.edu/people/faculty/uros-seljak)
 
 ## BCCP-affiliated Faculty and Scientists
 
