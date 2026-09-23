@@ -18,4 +18,4 @@ An investment in the BCCP is not only an investment in the future of cosmology. 
 
 BCCP's frontier research and education depends on private philanthropy from UCB alumni and friends, corporations, and foundations. Gifts to Berkeley play an essential role both in sustaining fundamental traditions of excellence and in moving the University forward decisively.
 
-To make a donation, please contact BCCP Director Uros Seljak at [useljak@berkeley.edu](mailto:useljak@berkeley.edu) or BCCP Administrative Assistant Maria Feng at [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu).
+To make a donation, please contact the BCCP Director, Uroš Seljak, at [useljak@berkeley.edu](mailto:useljak@berkeley.edu) or the BCCP Administrative Assistant, Maria Feng, at [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu).
