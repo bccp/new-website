@@ -155,7 +155,7 @@ Founded in 2007 by Nobel Laureate [George Smoot](https://aether.lbl.gov/), who s
 - Kimmy Wu
 - Oliver Zahn
 - HongMing Zhu
-- Miguel Zumalacarregui
+- Miguel Zumalacárregui
 
 
 ## Former BCCP Graduate and Undergraduate Students
