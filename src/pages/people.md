@@ -38,11 +38,12 @@ Founded in 2007 by Nobel Laureate [George Smoot](https://aether.lbl.gov/), who s
 ## Current BCCP Postdoctoral Fellows
 
 - [Anshuman Acharya](https://www.anshumanastro.com/)
+- [Natalí de Santi](https://natalidesanti.github.io/)
 - [Kangning Diao](https://dkn16.github.io/)
 - [Richard Feder](https://richardfeder.github.io/)
 - [Alina Sabyr](https://asabyr.github.io/)
 - Hugo Simon
-- [Natalí de Santi](https://natalidesanti.github.io/)
+- Ryo Terasawa
 - [Erik Zaborowski](https://www.linkedin.com/in/erik-zaborowski/)
 
 ## Current BCCP-affiliated Postdocs and Project Scientists
@@ -110,6 +111,7 @@ Founded in 2007 by Nobel Laureate [George Smoot](https://aether.lbl.gov/), who s
 - Boryana Hadzhiyska
 - ChangHoon Hahn
 - Brian Hayden
+- Joseph Hennawi
 - Shirley Ho
 - Xiaosheng Huang
 - Lingyuan Ji
