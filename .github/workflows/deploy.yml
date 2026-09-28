@@ -15,8 +15,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  SITE_URL: https://bccp.berkeley.edu
-  SITE_BASE: /
+  SITE_URL: https://bccp.github.io
+  SITE_BASE: /new-website/
 
 jobs:
   build:
