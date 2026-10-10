@@ -4,7 +4,7 @@ title: "Jobs"
 description: "Postdoctoral fellowships and other opportunities in Berkeley cosmology."
 ---
 
-## Current Announcements
+## Current Announcements (Fall 2026)
 
 The Fall 2026 Berkeley Center for Cosmological Physics (BCCP) Postdoctoral Fellowship is now open, and the deadline is **November 15**. [Apply here!](https://aas.org/jobregister/ad/9a2ae398)
 
