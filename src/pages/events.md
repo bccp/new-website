@@ -4,6 +4,10 @@ title: "Events"
 description: "Seminars, lunches, workshops, and center events."
 ---
 
+The main BCCP events are on Tuesdays, when we hold Journal Club, BCCP lunch, and the [BCCP seminar](https://cosmology.lbl.gov/sem_bcg_future.html). Other weekly events include the DESI and CMB lunches at LBNL.
+
+Other talk series sometimes feature cosmology talks too: the [TAC seminar](https://tac.berkeley.edu/monday-tac-seminar/), the [Physics](https://events.berkeley.edu/physics/all) and [Astronomy](https://astro.berkeley.edu/news/events/astronomy-colloquium/) colloquia, the [RPM](https://rpm.physics.lbl.gov/), [INPA](https://inpa.lbl.gov/events/), and [AI/ML](https://sites.google.com/lbl.gov/psa-aiml-seminar) seminars at LBNL, and the [BIDMaP](https://bidmap.berkeley.edu/seminars-events) seminars. If you're in Berkeley, watch for the weekly email summarizing upcoming cosmology events.
+
 ## Current Schedule
 
 [Current Berkeley Cosmology Seminar schedule](https://cosmology.lbl.gov/sem_bcg_future.html)
