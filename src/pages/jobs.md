@@ -14,11 +14,11 @@ We also encourage you to apply to the [Hubble/Einstein](https://www.stsci.edu/st
 
 ## General Information
 
-BCCP brings together researchers at UC Berkeley and Lawrence Berkeley National Laboratory. Prospective postdoctoral researchers are encouraged to apply to opportunities at both institutions: BCCP operates as one group, and researchers collaborate across the broader Berkeley cosmology community regardless of their formal host institution.
+BCCP brings together researchers at UC Berkeley and Lawrence Berkeley National Laboratory (Berkeley Lab). Prospective postdoctoral researchers are encouraged to apply to opportunities at both institutions: BCCP operates as one group, and researchers collaborate across the broader Berkeley cosmology community regardless of their formal host institution.
 
 ### The BCCP Fellowship
 
-The BCCP Fellowship is a prize postdoctoral position at UC Berkeley for early-career researchers in cosmology. Fellows carry out independent research on topics of their choosing. They work with researchers in the Berkeley Astronomy and Physics Departments and at Lawrence Berkeley National Laboratory, across programs that include supernovae, galaxy clustering, weak lensing, the cosmic microwave background, and theoretical astrophysics and cosmology, with a rich data-science environment. Applicants are also considered for grant-supported postdoctoral positions with BCCP members. The fellowship is advertised each fall on the [AAS Job Register](https://jobregister.aas.org/), for a start the following summer or fall.
+The BCCP Fellowship is a prize postdoctoral position for early-career researchers in cosmology. Fellows carry out independent research on topics of their choosing. They work with researchers in the UC Berkeley Astronomy and Physics Departments and at Berkeley Lab, across programs that include supernovae, galaxy clustering, weak lensing, the cosmic microwave background, and theoretical astrophysics and cosmology, with a rich data-science environment. Applicants are also considered for grant-supported postdoctoral positions with BCCP members. The fellowship is advertised each fall on the [AAS Job Register](https://jobregister.aas.org/), for a start the following summer or fall.
 
 ### Other UC Berkeley postdoctoral opportunities
 
