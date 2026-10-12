@@ -10,9 +10,7 @@ We maintain an active program for visiting scholars. BCCP hosts visitors at all 
 
 Address: Campbell Hall 341, University of California, Berkeley, CA 94720
 
-For business inquiries, please contact BCCP Administrative Assistant, Maria Feng, at [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu).
-
-For extended visits, please refer to the visitor program information above.
+For inquiries, please contact BCCP Administrative Assistant, Maria Feng, at [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu).
 
 <iframe
   title="Map showing Campbell Hall at UC Berkeley"
