@@ -4,11 +4,11 @@ title: "Visiting"
 description: "Visitor program information and records of current and previous BCCP visitors."
 ---
 
-We maintain an active program for visiting scholars. BCCP hosts visitors at all levels, from senior scientists to postdocs, graduate students, and undergraduates. Longer term visits involving collaborative activities with BCCP members are especially encouraged. BCCP can provide financial support for longer term visitors working with BCCP members on BCCP related projects.
+We maintain an active program for visiting scholars. BCCP hosts visitors at all levels, from senior scientists to postdocs, graduate students, and undergraduates. We especially encourage longer-term visits involving collaborative activities with BCCP members. BCCP can provide financial support for longer-term visitors working with BCCP members on BCCP-related projects.
 
 ## Location and Contact
 
-Address: Campbell Hall 341 University of California, Berkeley, CA 94720
+Address: Campbell Hall 341, University of California, Berkeley, CA 94720
 
 For business inquiries, please contact BCCP Administrative Assistant, Maria Feng, at [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu).
 
@@ -23,12 +23,12 @@ For extended visits, please refer to the visitor program information above.
   style="border:0;max-width:100%;"
 ></iframe>
 
-## 2026
+## Previous Visitors
+
+### 2026
 
 -   Alejandro Cartes Silva
 -   Sam Goldstein
-
-## Previous Visitors
 
 ### 2025
 
