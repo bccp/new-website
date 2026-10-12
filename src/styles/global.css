@@ -329,13 +329,13 @@ h3 {
   border-radius: 8px;
 }
 
-.page-donate img[src$="/campanile-donate.jpg"] {
+.page-donate img[src$="/sather-gate.jpg"] {
   display: block;
   width: 100%;
-  aspect-ratio: 16 / 7;
+  aspect-ratio: 16 / 9;
   object-fit: cover;
-  object-position: center 58%;
-  margin: 0;
+  object-position: center 20%;
+  margin: 0 0 28px;
   border-radius: 8px;
 }
 

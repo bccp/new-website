@@ -192,6 +192,6 @@ Founded in 2007 by Nobel Laureate [George Smoot](https://aether.lbl.gov/), who s
 - Winston Yin
 - Byeonghee Yu
 
-## BCCP Administrator
+## BCCP Administrative Assistant
 
 - Maria Feng, [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu)
