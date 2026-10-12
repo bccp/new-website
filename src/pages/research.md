@@ -22,7 +22,7 @@ BCCP researchers develop theoretical models and computational methods to study t
 
 ## [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov/)
 
-DESI measures how dark energy affects the expansion of the Universe by collecting spectra of tens of millions of galaxies and quasars. Its observations create a three-dimensional map of the cosmos spanning billions of light-years.
+DESI measures how dark energy affects the expansion of the universe by collecting spectra of tens of millions of galaxies and quasars. Its observations create a three-dimensional map of the cosmos spanning billions of light-years.
 
 * * *
 
@@ -30,7 +30,7 @@ DESI measures how dark energy affects the expansion of the Universe by collectin
 
 ## [Simons Observatory](https://simonsobservatory.org/)
 
-The Simons Observatory is a set of millimeter-wave telescopes in Chile's Atacama Desert that maps the cosmic microwave background. These observations probe the origin, evolution, and composition of the Universe, including dark matter, neutrinos, and cosmic acceleration.
+The Simons Observatory is a set of millimeter-wave telescopes in Chile's Atacama Desert that maps the cosmic microwave background. These observations probe the origin, evolution, and composition of the universe, including dark matter, neutrinos, and cosmic acceleration.
 
 * * *
 
@@ -54,7 +54,7 @@ The Nancy Grace Roman Space Telescope is a NASA infrared observatory designed to
 
 ## [Euclid](https://www.esa.int/Science_Exploration/Space_Science/Euclid)
 
-ESA's Euclid space telescope is mapping billions of galaxies across more than one-third of the sky to trace the geometry and growth of large-scale structure over cosmic time. Measurements of weak gravitational lensing and galaxy clustering will probe dark matter, dark energy, gravity, and the expansion history of the Universe.
+ESA's Euclid space telescope is mapping billions of galaxies across more than one-third of the sky to trace the geometry and growth of large-scale structure over cosmic time. Measurements of weak gravitational lensing and galaxy clustering will probe dark matter, dark energy, gravity, and the expansion history of the universe.
 
 * * *
 
@@ -70,7 +70,7 @@ The Baryon Oscillation Spectroscopic Survey (BOSS) was a five-year survey design
 
 ## [Supernova Cosmology Project](https://supernova.lbl.gov/)
 
-The Supernova Cosmology Project (SCP) discovered the accelerating expansion of the Universe using Type Ia supernovae. Its researchers continue to use observations from ground- and space-based telescopes to improve measurements of dark energy.
+The Supernova Cosmology Project (SCP) discovered the accelerating expansion of the universe using Type Ia supernovae. Its researchers continue to use observations from ground- and space-based telescopes to improve measurements of dark energy.
 
 * * *
 
@@ -78,7 +78,7 @@ The Supernova Cosmology Project (SCP) discovered the accelerating expansion of t
 
 ## [Nearby Supernova Factory](https://snfactory.lbl.gov/)
 
-The Nearby Supernova Factory (SNfactory) develops Type Ia supernovae as tools for measuring the expansion history of the Universe and exploring the nature of dark energy.
+The Nearby Supernova Factory (SNfactory) develops Type Ia supernovae as tools for measuring the expansion history of the universe and exploring the nature of dark energy.
 
 * * *
 
@@ -86,7 +86,7 @@ The Nearby Supernova Factory (SNfactory) develops Type Ia supernovae as tools fo
 
 ## [POLARBEAR](https://lambda.gsfc.nasa.gov/product/polarbear/)
 
-The Polarization of Background Radiation (POLARBEAR) experiment measures polarization in the cosmic microwave background (CMB). Its observations investigate the origin and evolution of the Universe and test physics beyond the Standard Model.
+The Polarization of Background Radiation (POLARBEAR) experiment measures polarization in the cosmic microwave background (CMB). Its observations investigate the origin and evolution of the universe and test physics beyond the Standard Model.
 
 * * *
 
@@ -94,4 +94,4 @@ The Polarization of Background Radiation (POLARBEAR) experiment measures polariz
 
 ## [Dark Energy Survey](https://www.darkenergysurvey.org/)
 
-The Dark Energy Survey (DES) mapped hundreds of millions of galaxies and detected thousands of supernovae. It uses supernovae, baryon acoustic oscillations, galaxy clusters, and weak gravitational lensing to study the accelerating expansion of the Universe.
+The Dark Energy Survey (DES) mapped hundreds of millions of galaxies and detected thousands of supernovae. It uses supernovae, baryon acoustic oscillations, galaxy clusters, and weak gravitational lensing to study the accelerating expansion of the universe.
