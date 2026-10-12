@@ -4,7 +4,24 @@ title: "Visiting"
 description: "Visitor program information and records of current and previous BCCP visitors."
 ---
 
-We maintain an active program for visiting scholars. BCCP hosts visitors at all levels, from senior scientists to postdocs, graduate students, and undergraduates. Longer term visits involving collaborative activities with BCCP members are especially encouraged. BCCP can provide financial support for longer term visitors working with BCCP members on BCCP related projects. The applications are reviewed by a committee several times a year. All decisions are based on the availability of space and funding.
+We maintain an active program for visiting scholars. BCCP hosts visitors at all levels, from senior scientists to postdocs, graduate students, and undergraduates. Longer term visits involving collaborative activities with BCCP members are especially encouraged. BCCP can provide financial support for longer term visitors working with BCCP members on BCCP related projects.
+
+## Location and Contact
+
+Address: Campbell Hall 341 University of California, Berkeley, CA 94720
+
+For business inquiries, please contact BCCP Administrative Assistant, Maria Feng, at [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu).
+
+For extended visits, please refer to the visitor program information above.
+
+<iframe
+  title="Map showing Campbell Hall at UC Berkeley"
+  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1574.725871919613!2d-122.2569908!3d37.8731169!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80857c245f989543%3A0x1236c2e95f769aed!2sCampbell+Hall!5e0!3m2!1sen!2sus!4v1425424681671"
+  width="600"
+  height="450"
+  loading="lazy"
+  style="border:0;max-width:100%;"
+></iframe>
 
 ## 2026
 
@@ -236,22 +253,3 @@ Ido Ben Dayan (Ariel University) August 22- July 30
 -   Masanori Sato (Nagoya University, Japan) - October 5 - November 22, 2012
 -   Andreu Font (University of Zurich) - November-December 2012
 -   Teppei Okumura (Institute for the Early Universe, Seoul, Korea) - November 5-December 21, 2012
-
-* * *
-
-## Location and Contact
-
-Address: Campbell Hall 341 University of California, Berkeley, CA 94720
-
-For business inquiries, please contact BCCP Administrative Assistant, Maria Feng, at [mariafeng@berkeley.edu](mailto:mariafeng@berkeley.edu).
-
-For extended visits, please refer to the visitor program information above.
-
-<iframe
-  title="Map showing Campbell Hall at UC Berkeley"
-  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1574.725871919613!2d-122.2569908!3d37.8731169!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80857c245f989543%3A0x1236c2e95f769aed!2sCampbell+Hall!5e0!3m2!1sen!2sus!4v1425424681671"
-  width="600"
-  height="450"
-  loading="lazy"
-  style="border:0;max-width:100%;"
-></iframe>
