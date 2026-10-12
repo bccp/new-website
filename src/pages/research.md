@@ -4,7 +4,9 @@ title: "Research"
 description: "Projects led by BCCP scientists or with substantial BCCP involvement."
 ---
 
-BCCP is a joint research center of the UC Berkeley Departments of [Physics](https://physics.berkeley.edu/) and [Astronomy](https://astro.berkeley.edu/) and the [Cosmology Group](https://www.physics.lbl.gov/cosmo/) at Lawrence Berkeley National Laboratory. We also maintain close ties to the [Leinweber Institute for Theoretical Physics](https://physics.berkeley.edu/research-faculty/leinweber-institute-theoretical-physics), the [Centre Pierre Binétruy](https://www.cpb.in2p3.fr/), the [Computational Cosmology Center](https://scidata.lbl.gov/research-areas/groups/computational-cosmology-center/), and the [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/).
+BCCP is a joint research center of the UC Berkeley Departments of [Physics](https://physics.berkeley.edu/) and [Astronomy](https://astro.berkeley.edu/) and the [Cosmology Group](https://www.physics.lbl.gov/cosmo/) at Lawrence Berkeley National Laboratory. It was founded in 2007 by Nobel laureate [George Smoot](https://aether.lbl.gov/) to investigate fundamental questions about how the universe began and evolved. Highlights of discoveries by BCCP members include the anisotropies of the cosmic microwave background and the accelerating expansion of the universe, both of which were recognized with Nobel Prizes.
+
+We collaborate closely with the [Leinweber Institute for Theoretical Physics](https://physics.berkeley.edu/research-faculty/leinweber-institute-theoretical-physics), the [Centre Pierre Binétruy](https://www.cpb.in2p3.fr/), the [Computational Cosmology Center](https://scidata.lbl.gov/research-areas/groups/computational-cosmology-center/), and the [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/).
 
 These are some of the projects that are either led by BCCP scientists or that have substantial involvement from BCCP:
 
