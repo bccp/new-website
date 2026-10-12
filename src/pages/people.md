@@ -107,6 +107,7 @@ Founded in 2007 by Nobel Laureate [George Smoot](https://aether.lbl.gov/), who s
 - Xiao Fang
 - Yu Feng
 - Andreu Font
+- Elena Giusarma
 - Satya Gontcho A Gontcho
 - Boryana Hadzhiyska
 - ChangHoon Hahn
@@ -124,6 +125,7 @@ Founded in 2007 by Nobel Laureate [George Smoot](https://aether.lbl.gov/), who s
 - Yin Li
 - Adrian Liu
 - Jia Liu
+- Elena Massara
 - Matt McQuinn
 - Aaron Meisner
 - Marius Millea
@@ -132,6 +134,7 @@ Founded in 2007 by Nobel Laureate [George Smoot](https://aether.lbl.gov/), who s
 - Reiko Nakajima
 - Nikhil Padmanabhan
 - Antonella Palmese
+- Hyunbae Park
 - Kara Ponder
 - Claire Poppett
 - Giuseppe Puglisi
@@ -176,6 +179,7 @@ Founded in 2007 by Nobel Laureate [George Smoot](https://aether.lbl.gov/), who s
 - Nicholas Huang
 - Eric Huff
 - Ellie Kitanidis
+- Alex Krolewski
 - Max Lee
 - Nathaniel Leslie
 - Mark Maus
