@@ -134,7 +134,7 @@ Ido Ben Dayan (Ariel University) August 22- July 30
 
 -   Daniel Green (Univ Toronto, CITA) - January 1-December 31
 -   Miguel Zumalacárregui (Nordita) – January 1-October 31
--   Andreu Font-Ribera (UCL) - January 10-21
+-   Andreu Font Ribera (UCL) - January 10-21
 -   Lukas Heizmann (Univ Heidelberg) – January 22-June 30
 -   Hugo Bacry (ENS) - February 10-July 10
 -   Jose Maria Ezquiaga (Madrid) – April 1-June 30
@@ -249,5 +249,5 @@ Ido Ben Dayan (Ariel University) August 22- July 30
 -   Tobias Baldauf (ITP, University of Zurich) - September 12-December 9, 2012
 -   Johan Samsing (DARK Cosmology Centre, Copenhagen) - February-December 2012
 -   Masanori Sato (Nagoya University, Japan) - October 5 - November 22, 2012
--   Andreu Font (University of Zurich) - November-December 2012
+-   Andreu Font Ribera (University of Zurich) - November-December 2012
 -   Teppei Okumura (Institute for the Early Universe, Seoul, Korea) - November 5-December 21, 2012

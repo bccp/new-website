@@ -106,7 +106,7 @@ Founded in 2007 by Nobel laureate [George Smoot](https://aether.lbl.gov/), who s
 - Aaron Ewall-Wice
 - Xiao Fang
 - Yu Feng
-- Andreu Font
+- Andreu Font Ribera
 - Elena Giusarma
 - Satya Gontcho A Gontcho
 - Boryana Hadzhiyska
@@ -178,6 +178,7 @@ Founded in 2007 by Nobel laureate [George Smoot](https://aether.lbl.gov/), who s
 - Benjamin Horowitz
 - Nicholas Huang
 - Eric Huff
+- Nick Kern
 - Ellie Kitanidis
 - Alex Krolewski
 - Max Lee
